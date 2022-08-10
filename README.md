@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Armando</h1>
 <h3 align="center">A passionate about data science world, recently graduated professional</h3>
 
-- 🔭 I’m currently working on **SQL projects**
+- 🔭 I’m currently working on **SQL & Python Projects**
 
-- 🌱 I’m currently learning **Google Data Analytics Certificate**
+- 🌱 Enrolled in **Data Scientist Diploma** to become one at Skills.tech 
 
 - 👯 I’m looking to collaborate on **data science, data analyst projects**
 
