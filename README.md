@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://armandolazalde.github.io/ArmandoPortfolio/](https://armandolazalde.github.io/ArmandoPortfolio/)
 
-- 📫 How to reach me **hola.armando22@gmail.com**
+- 📫 How to reach me **armandolazalde2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
