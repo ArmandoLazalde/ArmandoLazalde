@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Armando</h1>
-<h3 align="center">Chemical enginner boosting my career in Data Science</h3>
+<h3 align="center">Chemical engineer boosting my career in Data Science</h3>
 
 - 🔭 I’m currently working on **PowerBI, SQL, Python projects**
 
